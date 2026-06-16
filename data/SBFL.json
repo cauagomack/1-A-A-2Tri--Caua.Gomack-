@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-16T18:53:50.824793+00:00",
+  "updated_at": "2026-06-16T22:51:44.613303+00:00",
   "data_referencia": "2026-06-16",
   "airport_icao": "SBFL",
   "airport_name": "Florianopolis",
   "airport_info": {
-    "sg_aerodromo_icao": "SBFL",
-    "sg_aerodromo_iata": "FLN",
-    "descricao": "HERCÍLIO LUZ - FLORIANÓPOLIS - SC - BRASIL"
+    "sg_aerodromo_icao": "SBJP",
+    "sg_aerodromo_iata": "JPA",
+    "descricao": "PRESIDENTE CASTRO PINTO - JOÃO PESSOA - PB - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
