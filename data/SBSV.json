@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-14T19:08:52.852580+00:00",
+  "updated_at": "2026-10-14T23:37:20.408313+00:00",
   "data_referencia": "2026-10-14",
   "airport_icao": "SBSV",
   "airport_name": "Salvador",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSG",
-    "sg_aerodromo_iata": "NAT",
-    "descricao": "GOVERNADOR ALUIZIO ALVES - SÃO GONÇALO DO AMARANTE - RN - BRASIL"
+    "sg_aerodromo_icao": "SBSV",
+    "sg_aerodromo_iata": "SSA",
+    "descricao": "DEPUTADO LUÍS EDUARDO MAGALHÃES - SALVADOR - BA - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
